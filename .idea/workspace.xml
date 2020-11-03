@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="85bdaa9a-9c79-4e58-9f4c-2d79faa77960" name="Default Changelist" comment="San Joaquin Valley Town Hall - CSS Added" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/index.html" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1j7CYOsBjAlxQDwKJKYaSuWBFla" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85bdaa9a-9c79-4e58-9f4c-2d79faa77960" name="Default Changelist" comment="" />
+      <created>1603145790105</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603145790105</updated>
+      <workItem from="1603145791272" duration="6218000" />
+      <workItem from="1603162011867" duration="998000" />
+      <workItem from="1603163048599" duration="100000" />
+      <workItem from="1603163158601" duration="102000" />
+      <workItem from="1603163270377" duration="37000" />
+      <workItem from="1603163338407" duration="101000" />
+      <workItem from="1603163441206" duration="882000" />
+      <workItem from="1603164335375" duration="916000" />
+      <workItem from="1603979791108" duration="626000" />
+      <workItem from="1604414726866" duration="43000" />
+    </task>
+    <task id="LOCAL-00001" summary="San Joaquin Valley Town Hall Site - First Commit">
+      <created>1603154435831</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603154435831</updated>
+    </task>
+    <task id="LOCAL-00002" summary="San Joaquin Valley Town Hall - CSS Added">
+      <created>1603162104790</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603162104790</updated>
+    </task>
+    <task id="LOCAL-00003" summary="San Joaquin Valley Town Hall - CSS Added">
+      <created>1603162754265</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603162754265</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Revert &quot;San Joaquin Valley Town Hall - CSS Added&quot;&#10;&#10;This reverts commit 91a3a07f">
+      <created>1603163204507</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603163204507</updated>
+    </task>
+    <task id="LOCAL-00005" summary="San Joaquin Valley Town Hall - CSS Added">
+      <created>1603164439082</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603164439082</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="San Joaquin Valley Town Hall Site - First Commit" />
+    <MESSAGE value="Revert &quot;San Joaquin Valley Town Hall - CSS Added&quot;&#10;&#10;This reverts commit 91a3a07f" />
+    <MESSAGE value="San Joaquin Valley Town Hall - CSS Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="San Joaquin Valley Town Hall - CSS Added" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="539" y="86" key="CommitChangelistDialog2" timestamp="1603163203991">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="86" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603163203991" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1604425106156">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604425106156" />
+    <state x="1318" y="421" key="Github.ShareDialog" timestamp="1603979913369">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1318" y="421" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603979913369" />
+    <state x="757" y="218" key="Github.UntrackedFilesDialog" timestamp="1603979924483">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="757" y="218" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603979924483" />
+  </component>
+</project>
